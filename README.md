@@ -1,4 +1,4 @@
-# eyp_cooking_app
+# ExploreU
 
 A cooking app designed for an audience of children. This app consists of easy-to-follow, informative cooking and baking tutorials. 
 
