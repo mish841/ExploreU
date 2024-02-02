@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158152522436",
+    "firebase_url": "https://exploreyourpassion-77be5-default-rtdb.firebaseio.com",
+    "project_id": "exploreyourpassion-77be5",
+    "storage_bucket": "exploreyourpassion-77be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158152522436:android:a4e9af3ffc513fc008a791",
+        "android_client_info": {
+          "package_name": "com.eyp.ExploreYourPassions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158152522436-acb0gbf8iknusjen4obuvcjp9h6h5n9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eyp.ExploreYourPassions",
+            "certificate_hash": "b6a975cac41818182a9c8a7b097976bab48c0687"
+          }
+        },
+        {
+          "client_id": "158152522436-n2unr1fktv8lgsbt99kk3v6h1guv324p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eyp.ExploreYourPassions",
+            "certificate_hash": "4dde1b82982d1cf511fcb6fccd9c3956ffa9a5c6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5763x9fCN0PC1-o3PcoE2dOm363FDIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
