@@ -8,4 +8,3 @@ ExploreU is a youth platform where children can learn unique subjects including 
 
 
 <img width="703" alt="exploreUthumbnail" src="https://github.com/mish841/ExploreU/assets/74212776/0007c00f-c373-47b7-aa75-085c2bab4380">
-![image](https://github.com/mish841/ExploreU/assets/74212776/aad092b9-5fd1-4c9f-a743-ebd500259abc)
